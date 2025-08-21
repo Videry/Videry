@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Videry
-- 👀 I’m interested in Web and java coding
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Web, Java, and C/C++ coding
+- 🌱 I’m currently learning these languages
 - 📫 To reach me :
   - E-Mail: swarties@proton.me
 
